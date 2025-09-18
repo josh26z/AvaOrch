@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Database
+*.db
+*.sqlite
+
+# Outputs (You might want to keep these, but don't commit raw scan data)
+outputs/scans/*
+outputs/reports/*
+
+# IDE
+.vscode/
+.idea/
